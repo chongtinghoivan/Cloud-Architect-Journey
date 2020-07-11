@@ -1,6 +1,6 @@
 # My Certifications
 
-## [AWS Cloud Architect Nanodegree](https://confirm.udacity.com/RFTCK7TH)
+## [AWS Cloud Architect Nanodegree](https://drive.google.com/file/d/1UAT8PX77kr_WOm3IZyght2lvxkpWVhJp/view?usp=sharing)
 • Design and deploy a fault tolerant and resilient web service architecture in AWS.
 
 • Monitor availability and simulate and test failure scenarios and recovery.
