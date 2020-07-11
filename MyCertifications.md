@@ -15,7 +15,7 @@
 
 • Design a DevSecOps pipeline that will scan infrastructure as code, AMI and containers, and AWS cloud configuration for vulnerabilities.
 
-## [AWS Technical Professional](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=DRErFVEjC0mp-MeH0BNDOg2)
+## [AWS Technical Professional](https://drive.google.com/file/d/18d-PGqDn4XmjpgTnpWVtypfyJ1ryy2h5/view?usp=sharing)
 
 • Identify core AWS services and relate them to common architectures and use cases
 
