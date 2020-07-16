@@ -36,4 +36,8 @@
 ## [Qwiklabs Quest Completed](https://amazon.qwiklabs.com/public_profiles/b0c3d5ba-b094-46b0-8c23-bc0a095c9b4c)
 1. [Security on AWS](https://amazon.qwiklabs.com/quests/22)
 
-## [ExamPro Solutions Architect Associate (SAA-C02) Exam Preparation Course](https://drive.google.com/file/d/1TGBkjNPs4Ak_AbDfuI2yh1-pq5QvPw6d/view?usp=sharing)
+## ExamPro - Andrew Brown
+1. [Solutions Architect Associate (SAA-C02) Exam Preparation Course](https://drive.google.com/file/d/1TGBkjNPs4Ak_AbDfuI2yh1-pq5QvPw6d/view?usp=sharing)
+
+## Digital Cloud Training - Neal Davis
+1. [Certificate of Achievement - Final Exam Simulator for the AWS Cerified Solutions Architect Associate](https://drive.google.com/file/d/1Ls8-WBztIRAULf69ZfIK-BVLyJCzq7ct/view?usp=sharing)
