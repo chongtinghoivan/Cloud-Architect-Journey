@@ -42,3 +42,4 @@
 
 ## Digital Cloud Training - Neal Davis
 1. [Certificate of Achievement - Final Exam Simulator for the AWS Cerified Solutions Architect Associate](https://drive.google.com/file/d/1Ls8-WBztIRAULf69ZfIK-BVLyJCzq7ct/view?usp=sharing)
+2. [Cerificate of Completion - (EXAM REVIEWER) AWS Certified Cloud Practitioner CLF-C01](https://drive.google.com/file/d/175Pah1IhEeJn4fFnzgEWhIBj6Hjd07Li/view?usp=sharing)
