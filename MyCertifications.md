@@ -33,13 +33,15 @@
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
 2. [Exam Readiness: AWS Certified Solutions Architect – Associate (Digital)](https://drive.google.com/file/d/1awxlKlQjq3mYkMZDAI8aRljUnPPpDvFz/view?usp=sharing)
 3. [Amazon DynamoDB – Architecture and Features](https://drive.google.com/file/d/1nTswfVLu6-bQdfzXmefzq2S9rIZS7LuT/view?usp=sharing)
+4. [Exam Readiness: AWS Certified SysOps Administrator - Associate](https://drive.google.com/file/d/1WpQJnzXBE_5_vqss8esLZImA0Pmt1gaK/view?usp=sharing)
 
 ## [Qwiklabs Quest Completed](https://amazon.qwiklabs.com/public_profiles/b0c3d5ba-b094-46b0-8c23-bc0a095c9b4c)
 1. [Security on AWS](https://amazon.qwiklabs.com/quests/22)
 
-## [AWS PartnerCast]
+## AWS PartnerCast
 1. [Build a Profitable APN Consulting Partner Business - Business](https://drive.google.com/file/d/1SgEVOZeWueiFWlCATcBWkvmacWPg5oKg/view?usp=sharing)
 2. [Introduction to the APN Technical Baseline Review - Technical](https://drive.google.com/file/d/10W4IG2knVTmcWY4KwhyDpmiHJy_fOgs3/view?usp=sharing)
+
 ## ExamPro - Andrew Brown
 1. [Solutions Architect Associate (SAA-C02) Exam Preparation Course](https://drive.google.com/file/d/1TGBkjNPs4Ak_AbDfuI2yh1-pq5QvPw6d/view?usp=sharing)
 
