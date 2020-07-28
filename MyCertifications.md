@@ -1,5 +1,24 @@
 # My Certifications
 
+## [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/50cc3d7d-e7d1-4c3a-b30d-66f29d8f5a3e)
+### Abilities Validated by the Certification
+
+• Define what the AWS Cloud is and the basic global infrastructure
+
+• Describe basic AWS Cloud architectural principles
+
+• Describe the AWS Cloud value proposition
+
+• Describe key services on the AWS platform and their common use cases (for example, compute and analytics)
+
+• Describe basic security and compliance aspects of the AWS platform and the shared security model
+
+• Define the billing, account management, and pricing models
+
+• Identify sources of documentation or technical assistance (for example, whitepapers or support tickets)
+
+• Describe basic/core characteristics of deploying and operating in the AWS Cloud
+
 ## [AWS Cloud Architect Nanodegree](https://drive.google.com/file/d/1UAT8PX77kr_WOm3IZyght2lvxkpWVhJp/view?usp=sharing)
 • Design and deploy a fault tolerant and resilient web service architecture in AWS.
 
