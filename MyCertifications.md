@@ -1,5 +1,15 @@
 # My Certifications
 
+## [AWS Certified Solutions Architect](https://www.youracclaim.com/badges/fd0a1083-8178-4d53-aea9-f74bbf0556a2)
+### Abilities Validated by the Certification
+
+• Effectively demonstrate knowledge of how to architect and deploy secure and robust applications on AWS technologies
+
+• Define a solution using architectural design principles based on customer requirements
+
+• Provide implementation guidance based on best practices to the organization throughout the life cycle of the project
+
+
 ## [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/50cc3d7d-e7d1-4c3a-b30d-66f29d8f5a3e)
 ### Abilities Validated by the Certification
 
