@@ -58,6 +58,8 @@
 
 • Identify modern solutions and cost optimization needed for digital transformation
 
+## [Alibaba Cloud ACA Cloud Computing Certification](https://drive.google.com/file/d/19_U-jHaKmqukE9qTB9OpTaJ95plM3D1e/view?usp=sharing)
+
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
 2. [Exam Readiness: AWS Certified Solutions Architect – Associate (Digital)](https://drive.google.com/file/d/1awxlKlQjq3mYkMZDAI8aRljUnPPpDvFz/view?usp=sharing)
