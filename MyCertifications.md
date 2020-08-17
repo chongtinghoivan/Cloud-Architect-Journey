@@ -66,6 +66,7 @@
 3. [Amazon DynamoDB – Architecture and Features](https://drive.google.com/file/d/1nTswfVLu6-bQdfzXmefzq2S9rIZS7LuT/view?usp=sharing)
 4. [Exam Readiness: AWS Certified SysOps Administrator - Associate](https://drive.google.com/file/d/1WpQJnzXBE_5_vqss8esLZImA0Pmt1gaK/view?usp=sharing)
 5. [Certification of Participation - AWS Fundamental course in the AWS Machine Learning Scholarship](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/b41d9200-b54a-4fa8-8bc3-f6a63d8769ad.pdf?utm_campaign=sch_600_auto_ndxxx_aws-ml-completed_global&utm_source=blueshift&utm_medium=email&utm_content=sch_600_auto_ndxxx_aws-ml-completed_global&bsft_clkid=b39280fe-8729-4722-90d2-68a51e37816f&bsft_uid=b1479fe7-32d6-4897-88ae-142d662e5f1a&bsft_mid=1d366992-f718-46d6-a518-5d3b253b0b60&bsft_eid=88b63008-b418-eaab-ee75-59a51b714a82&bsft_mime_type=html&bsft_ek=2020-08-15T21%3A50%3A42Z)
+6. [Exam Readiness: AWS Certified Developer – Associate (Digital)](https://drive.google.com/file/d/1GPzmvd-p-PsTzjzv0Um4VeXoR5Fsbyqi/view?usp=sharing)
 
 ## Multi-Cloud Trainings
 1. [Certificate of Completion - Aviatrix Certified Engineer - Multi-Cloud Network Associate Course](https://drive.google.com/file/d/1-T7HUwUH-Krr_BUiK3fWOkTbK7HPHKgk/view?usp=sharing)
