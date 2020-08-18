@@ -60,6 +60,9 @@
 
 ## [Alibaba Cloud ACA Cloud Computing Certification](https://drive.google.com/file/d/19_U-jHaKmqukE9qTB9OpTaJ95plM3D1e/view?usp=sharing)
 
+## Google Cloud Platform Training Courses - Coursera
+1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/GYUE3KHY2P45)
+
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
 2. [Exam Readiness: AWS Certified Solutions Architect – Associate (Digital)](https://drive.google.com/file/d/1awxlKlQjq3mYkMZDAI8aRljUnPPpDvFz/view?usp=sharing)
