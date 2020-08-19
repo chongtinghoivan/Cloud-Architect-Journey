@@ -62,6 +62,7 @@
 
 ## Google Cloud Platform Training Courses - Coursera
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/GYUE3KHY2P45)
+2. [Essential Google Cloud Infrastructure: Foundation](https://drive.google.com/file/d/1Wl_sEY0d0AUY3T1-ClIu_Mn3PM-jm3e4/view?usp=sharing)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
