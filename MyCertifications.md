@@ -66,6 +66,7 @@
 3. [Essential Cloud Infrastructure: Core Services](https://coursera.org/share/7cabbad71b8e7c38ecb650ee70307aef)
 4. [Elastic Google Cloud Infrastructure: Scaling and Automation](https://coursera.org/share/b4fb61957ebd8fa5244526065fa02465)
 5. [Reliable Google Cloud Infrastructure: Design and Process](https://coursera.org/share/f989a95b67df1a83155562b4a70e94b5)
+6. [Preparing for the Google Cloud Professional Cloud Architect Exam](https://coursera.org/share/155082a79ca9bc45f601fb150b16879a)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
