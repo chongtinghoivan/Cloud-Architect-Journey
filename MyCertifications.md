@@ -60,7 +60,7 @@
 
 ## [Alibaba Cloud ACA Cloud Computing Certification](https://drive.google.com/file/d/19_U-jHaKmqukE9qTB9OpTaJ95plM3D1e/view?usp=sharing)
 
-## Google Cloud Platform Training Courses - Coursera
+## [Cloud Architecture with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/FWCQZ5GT6HA6)
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/GYUE3KHY2P45)
 2. [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/account/accomplishments/records/CGVBFXCQLEXQ)
 3. [Essential Cloud Infrastructure: Core Services](https://coursera.org/share/7cabbad71b8e7c38ecb650ee70307aef)
