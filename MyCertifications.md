@@ -1,6 +1,6 @@
 # My Certifications
 
-## [AWS Certified Solutions Architect](https://www.youracclaim.com/badges/fd0a1083-8178-4d53-aea9-f74bbf0556a2)
+## [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/fd0a1083-8178-4d53-aea9-f74bbf0556a2)
 ### Abilities Validated by the Certification
 
 • Effectively demonstrate knowledge of how to architect and deploy secure and robust applications on AWS technologies
@@ -60,6 +60,8 @@
 
 ## [Alibaba Cloud ACA Cloud Computing Certification](https://drive.google.com/file/d/19_U-jHaKmqukE9qTB9OpTaJ95plM3D1e/view?usp=sharing)
 
+## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
+
 ## [Cloud Architecture with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/FWCQZ5GT6HA6)
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/GYUE3KHY2P45)
 2. [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/account/accomplishments/records/CGVBFXCQLEXQ)
@@ -67,8 +69,6 @@
 4. [Elastic Google Cloud Infrastructure: Scaling and Automation](https://coursera.org/share/b4fb61957ebd8fa5244526065fa02465)
 5. [Reliable Google Cloud Infrastructure: Design and Process](https://coursera.org/share/f989a95b67df1a83155562b4a70e94b5)
 6. [Preparing for the Google Cloud Professional Cloud Architect Exam](https://coursera.org/share/155082a79ca9bc45f601fb150b16879a)
-
-## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
