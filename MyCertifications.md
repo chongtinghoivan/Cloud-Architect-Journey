@@ -68,6 +68,8 @@
 5. [Reliable Google Cloud Infrastructure: Design and Process](https://coursera.org/share/f989a95b67df1a83155562b4a70e94b5)
 6. [Preparing for the Google Cloud Professional Cloud Architect Exam](https://coursera.org/share/155082a79ca9bc45f601fb150b16879a)
 
+## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
+
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
 2. [Exam Readiness: AWS Certified Solutions Architect – Associate (Digital)](https://drive.google.com/file/d/1awxlKlQjq3mYkMZDAI8aRljUnPPpDvFz/view?usp=sharing)
