@@ -62,13 +62,16 @@
 
 ## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
 
-## [Cloud Architecture with Google Cloud](https://www.coursera.org/account/accomplishments/specialization/certificate/FWCQZ5GT6HA6)
+## [Cloud Architecture with Google Cloud Professional Certificate](hhttps://coursera.org/share/31fc73f747dedd6776b003a0269e0917) @Coursera
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/GYUE3KHY2P45)
 2. [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/account/accomplishments/records/CGVBFXCQLEXQ)
 3. [Essential Cloud Infrastructure: Core Services](https://coursera.org/share/7cabbad71b8e7c38ecb650ee70307aef)
 4. [Elastic Google Cloud Infrastructure: Scaling and Automation](https://coursera.org/share/b4fb61957ebd8fa5244526065fa02465)
 5. [Reliable Google Cloud Infrastructure: Design and Process](https://coursera.org/share/f989a95b67df1a83155562b4a70e94b5)
 6. [Preparing for the Google Cloud Professional Cloud Architect Exam](https://coursera.org/share/155082a79ca9bc45f601fb150b16879a)
+
+## Google IT Support Professional Certificate @Coursera
+1. [Technical Support Fundamentals](https://coursera.org/share/fb442bd45fcde0a821a31db96a20fcf1)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
