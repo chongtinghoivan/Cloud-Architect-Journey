@@ -83,6 +83,7 @@
 
 ## Azure Trainings
 1. ["Microsoft AZ-900 Certification: Azure Fundamentals" by Skylines Academy on Udemy](https://drive.google.com/file/d/1e1y6b-lP8oGhASvRZf6LIGxgC6mF8UdC/view?usp=sharing)
+2. [Azure Fundamentals - Microsoft Learn](https://docs.microsoft.com/en-us/users/ivanchong/achievements)
 ## Multi-Cloud Trainings
 1. [Certificate of Completion - Aviatrix Certified Engineer - Multi-Cloud Network Associate Course](https://drive.google.com/file/d/1-T7HUwUH-Krr_BUiK3fWOkTbK7HPHKgk/view?usp=sharing)
 
