@@ -58,6 +58,8 @@
 
 • Identify modern solutions and cost optimization needed for digital transformation
 
+## [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/2462dd38-27c0-485a-a426-9b456c974265)
+
 ## [Alibaba Cloud ACA Cloud Computing Certification](https://drive.google.com/file/d/19_U-jHaKmqukE9qTB9OpTaJ95plM3D1e/view?usp=sharing)
 
 ## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
