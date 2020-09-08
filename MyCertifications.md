@@ -64,7 +64,7 @@
 
 ## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
 
-## [Cloud Architecture with Google Cloud Professional Certificate](hhttps://coursera.org/share/31fc73f747dedd6776b003a0269e0917) @Coursera
+## [Cloud Architecture with Google Cloud Professional Certificate @Coursera](https://coursera.org/share/31fc73f747dedd6776b003a0269e0917)
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/GYUE3KHY2P45)
 2. [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/account/accomplishments/records/CGVBFXCQLEXQ)
 3. [Essential Cloud Infrastructure: Core Services](https://coursera.org/share/7cabbad71b8e7c38ecb650ee70307aef)
