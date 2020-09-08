@@ -75,6 +75,7 @@
 ## Google IT Support Professional Certificate @Coursera
 1. [Technical Support Fundamentals](https://coursera.org/share/fb442bd45fcde0a821a31db96a20fcf1)
 2. [IT Security: Defense against the digital dark arts](https://coursera.org/share/f496813fce6694eb4c1ab0d3b90dcda7)
+3. [The Bits and Bytes of Computer Networking](https://coursera.org/share/0a0f1f80704e2c508bee873e77fb063e)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
