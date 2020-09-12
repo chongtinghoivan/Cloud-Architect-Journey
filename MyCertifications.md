@@ -79,6 +79,9 @@
 4. [Operating Systems and You: Becoming a Power User](https://coursera.org/share/c08f376956245a90241dc4b25bd6a28b)
 5. [System Administration and IT Infrastructure Services](https://coursera.org/share/5e7f8616c16b75a2ab73c0abb9203919)
 
+## Google IT Automation with Python Professional Certificate @Coursera
+1. [Introduction to Git and GitHub](https://coursera.org/share/5e0ba35e08122e165218ce64b9e68f4d)
+
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
 2. [Exam Readiness: AWS Certified Solutions Architect – Associate (Digital)](https://drive.google.com/file/d/1awxlKlQjq3mYkMZDAI8aRljUnPPpDvFz/view?usp=sharing)
