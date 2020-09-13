@@ -81,6 +81,7 @@
 
 ## Google IT Automation with Python Professional Certificate @Coursera
 1. [Introduction to Git and GitHub](https://coursera.org/share/5e0ba35e08122e165218ce64b9e68f4d)
+2. [Crash Course on Python](https://coursera.org/share/c65a9f2f76c529d1afea2237da6977ac)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
