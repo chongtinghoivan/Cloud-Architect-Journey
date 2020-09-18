@@ -84,6 +84,7 @@
 2. [Crash Course on Python](https://coursera.org/share/c65a9f2f76c529d1afea2237da6977ac)
 3. [Using Python to Interact with the Operating System](https://coursera.org/share/efd16522582857c13a22c27667a7f106)
 4. [Troubleshooting and Debugging Techniques](https://coursera.org/share/976896eb5197e630059b713b3a84fa47)
+5. [Configuration Management and the Cloud](https://coursera.org/share/b35cb7761a347a7bdf5d47920e944fbf)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
