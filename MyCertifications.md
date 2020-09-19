@@ -79,12 +79,13 @@
 4. [Operating Systems and You: Becoming a Power User](https://coursera.org/share/c08f376956245a90241dc4b25bd6a28b)
 5. [System Administration and IT Infrastructure Services](https://coursera.org/share/5e7f8616c16b75a2ab73c0abb9203919)
 
-## Google IT Automation with Python Professional Certificate @Coursera
+## [Google IT Automation with Python Professional Certificate @Coursera](https://www.youracclaim.com/badges/589c0cb9-211a-4330-bbc4-c1739b63d14a)
 1. [Introduction to Git and GitHub](https://coursera.org/share/5e0ba35e08122e165218ce64b9e68f4d)
 2. [Crash Course on Python](https://coursera.org/share/c65a9f2f76c529d1afea2237da6977ac)
 3. [Using Python to Interact with the Operating System](https://coursera.org/share/efd16522582857c13a22c27667a7f106)
 4. [Troubleshooting and Debugging Techniques](https://coursera.org/share/976896eb5197e630059b713b3a84fa47)
 5. [Configuration Management and the Cloud](https://coursera.org/share/b35cb7761a347a7bdf5d47920e944fbf)
+6. [Automating Real-World Tasks with Python](https://coursera.org/share/494f4c9f95b9ea4f5c9ff65df9f07380)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
