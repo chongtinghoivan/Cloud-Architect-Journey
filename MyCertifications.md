@@ -87,7 +87,9 @@
 5. [Configuration Management and the Cloud](https://coursera.org/share/b35cb7761a347a7bdf5d47920e944fbf)
 6. [Automating Real-World Tasks with Python](https://coursera.org/share/494f4c9f95b9ea4f5c9ff65df9f07380)
 
-## [Bot Developer (A2019) - Automation Anywhere](https://certificates.automationanywhere.com/742455a2-b7b9-48c4-90e5-4a886e361a9c#gs.gr0u89)
+## [Bot Developer (A2019) - Automation Anywhere](https://certificates.automationanywhere.com/742455a2-b7b9-48c4-90e5-4a886e361a9c)
+
+## [Business Analyst (A2019) - Automation Anywhere](https://certificates.automationanywhere.com/f908d805-4061-49eb-92ef-6a92e230c7d7)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
