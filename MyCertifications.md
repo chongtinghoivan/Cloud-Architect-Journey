@@ -72,6 +72,8 @@
 5. [Reliable Google Cloud Infrastructure: Design and Process](https://coursera.org/share/f989a95b67df1a83155562b4a70e94b5)
 6. [Preparing for the Google Cloud Professional Cloud Architect Exam](https://coursera.org/share/155082a79ca9bc45f601fb150b16879a)
 
+## [Zerto Certified Associate: Foundations 8.0](https://www.youracclaim.com/badges/8d60a9fb-0fad-4980-aa67-e9e37f0503ca)
+
 ## [Google IT Support Professional Certificate @Coursera](https://www.youracclaim.com/badges/55fb5188-e3c0-40ef-9b4c-00e6a5a3062d)
 1. [Technical Support Fundamentals](https://coursera.org/share/fb442bd45fcde0a821a31db96a20fcf1)
 2. [IT Security: Defense against the digital dark arts](https://coursera.org/share/f496813fce6694eb4c1ab0d3b90dcda7)
