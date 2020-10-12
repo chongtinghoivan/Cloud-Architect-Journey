@@ -121,5 +121,8 @@
 1. [Certificate of Achievement - Final Exam Simulator for the AWS Cerified Solutions Architect Associate](https://drive.google.com/file/d/1Ls8-WBztIRAULf69ZfIK-BVLyJCzq7ct/view?usp=sharing)
 2. [Cerificate of Completion - (EXAM REVIEWER) AWS Certified Cloud Practitioner CLF-C01](https://drive.google.com/file/d/175Pah1IhEeJn4fFnzgEWhIBj6Hjd07Li/view?usp=sharing)
 
+## DataCumulus - Stéphane Maarek
+1. [Cerificate of Completion - Ultimate AWS Certified SysOps Administrator Associate 2020](https://www.udemy.com/certificate/UC-de6419c8-f0fc-4d21-b958-26b76c3e5d4c/)
+
 ## Cloud Career Planning
 1. [Cerificate of Completion - Infrastructure & Cloud Career Planning - A must have guide](https://drive.google.com/file/d/1JDfBiUnLCjy5UEnvpDmDycLK4YmDR6ZP/view?usp=sharing)
