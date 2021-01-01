@@ -108,6 +108,7 @@
 ## Cloud Academy Certifications
 1. [AI-900 Exam Preparation- Microsoft Azure AI Fundamentals (preview)](https://drive.google.com/file/d/13gkQm43n7WuhBM7kUf0EmtQZR4ynHFtZ/view?usp=sharing)
 2. [Introduction to Azure Machine Learning](https://drive.google.com/file/d/1uXPsldNXtNp-mi3q6f738f4spCV89B-W/view?usp=sharing)
+3. [Big Data Analytics on Azure](https://drive.google.com/file/d/1v3dg7WvvQ8sJc8-v5wH-fV-phjJgvAGX/view?usp=sharing)
 
 ## Multi-Cloud Trainings
 1. [Certificate of Completion - Aviatrix Certified Engineer - Multi-Cloud Network Associate Course](https://drive.google.com/file/d/1-T7HUwUH-Krr_BUiK3fWOkTbK7HPHKgk/view?usp=sharing)
