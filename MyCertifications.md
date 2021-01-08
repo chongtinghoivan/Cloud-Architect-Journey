@@ -112,6 +112,9 @@
 4. [Using Azure AI Services to Build Customer Solutions](https://drive.google.com/file/d/1LliHdXqFWh-nvQ7meI_Ur3F7MZ-MPQJT/view?usp=sharing)
 5. [AI-100 Exam Preparation: Designing and Implementing an Azure AI Solution](https://drive.google.com/file/d/180fQ6k29mZVq3dZZeVouOSAAUUPubjLZ/view?usp=sharing)
 
+## Kode Kloud Certifications
+1. [Kubernetes for the Absolute Beginners - Hands-on](https://drive.google.com/file/d/1Lj1VjwUyGBj2puGFj4SLfb5S8rq18xrW/view?usp=sharing)
+
 ## Multi-Cloud Trainings
 1. [Certificate of Completion - Aviatrix Certified Engineer - Multi-Cloud Network Associate Course](https://drive.google.com/file/d/1-T7HUwUH-Krr_BUiK3fWOkTbK7HPHKgk/view?usp=sharing)
 
