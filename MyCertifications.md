@@ -117,7 +117,7 @@
 ## Whizlabs Certifications
 1. [Designing and Implementing an AI Solution (AI-100)](https://drive.google.com/file/d/1EBGmlW8QW2nC_9iUpnZ-eCCc8snkVHPw/view?usp=sharing)
 2. [Microsoft Azure Architect Technologies (AZ-303)](https://drive.google.com/file/d/1D_UR8wqnEe7j34gf5s2NQQ092Vg7he4S/view?usp=sharing)
-2. [Microsoft Azure Architect Design (AZ-304](https://drive.google.com/file/d/15FXOfqS2ogJxS2e4eF5Cb-L17h-Fjjqs/view?usp=sharing)
+3. [Microsoft Azure Architect Design (AZ-304](https://drive.google.com/file/d/15FXOfqS2ogJxS2e4eF5Cb-L17h-Fjjqs/view?usp=sharing)
 
 ## Kode Kloud Certifications
 1. [Kubernetes for the Absolute Beginners - Hands-on](https://drive.google.com/file/d/1Lj1VjwUyGBj2puGFj4SLfb5S8rq18xrW/view?usp=sharing)
