@@ -119,6 +119,7 @@
 2. [Microsoft Azure Architect Technologies (AZ-303)](https://drive.google.com/file/d/1D_UR8wqnEe7j34gf5s2NQQ092Vg7he4S/view?usp=sharing)
 3. [Microsoft Azure Architect Design (AZ-304)](https://drive.google.com/file/d/15FXOfqS2ogJxS2e4eF5Cb-L17h-Fjjqs/view?usp=sharing)
 4. [Microsoft Azure Administrator (AZ-104)](https://drive.google.com/file/d/1Vra1j_oWchd2e236aXImxFpfGOfU1jdQ/view?usp=sharing)
+5. [Microsoft Azure DevOps Solutions (AZ-400)](https://drive.google.com/file/d/1rJTPRs5dknxvR0NEaH2DdtAygQOdz8Uv/view?usp=sharing)
 
 ## Kode Kloud Certifications
 1. [Kubernetes for the Absolute Beginners - Hands-on](https://drive.google.com/file/d/1Lj1VjwUyGBj2puGFj4SLfb5S8rq18xrW/view?usp=sharing)
