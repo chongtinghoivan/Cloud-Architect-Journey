@@ -114,6 +114,9 @@
 4. [Using Azure AI Services to Build Customer Solutions](https://drive.google.com/file/d/1LliHdXqFWh-nvQ7meI_Ur3F7MZ-MPQJT/view?usp=sharing)
 5. [AI-100 Exam Preparation: Designing and Implementing an Azure AI Solution](https://drive.google.com/file/d/180fQ6k29mZVq3dZZeVouOSAAUUPubjLZ/view?usp=sharing)
 
+## CloudSkills.io
+1. [Azure Administrator (AZ-104) Exam Prep](https://www.credential.net/6137873f-0445-443c-88e2-e2478883e197?action=linkedin_share#gs.ue8tc8)
+
 ## Whizlabs Certifications
 1. [Designing and Implementing an AI Solution (AI-100)](https://drive.google.com/file/d/1EBGmlW8QW2nC_9iUpnZ-eCCc8snkVHPw/view?usp=sharing)
 2. [Microsoft Azure Architect Technologies (AZ-303)](https://drive.google.com/file/d/1D_UR8wqnEe7j34gf5s2NQQ092Vg7he4S/view?usp=sharing)
