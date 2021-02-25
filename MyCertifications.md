@@ -60,6 +60,8 @@
 
 ## [Microsoft Certified: Azure AI Engineer Associate](https://www.youracclaim.com/badges/afec93c2-9784-4649-8415-4bb54434a719/public_url)
 
+## [Microsoft Certified: Azure Administrator Associate](https://www.youracclaim.com/badges/ef0ef991-db37-47e4-8757-9d5902bfee8a/linked_in)
+
 ## [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/2462dd38-27c0-485a-a426-9b456c974265)
 
 ## [Alibaba Cloud ACA Cloud Computing Certification](https://drive.google.com/file/d/19_U-jHaKmqukE9qTB9OpTaJ95plM3D1e/view?usp=sharing)
