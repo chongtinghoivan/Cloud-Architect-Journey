@@ -19,6 +19,8 @@ Certificates obtained along the journey would also be recorded.
 
 • AWS Cloud Architect Nanodegree @Udacity
 
+• Microsoft Certified: DevOps Engineer Expert
+
 • Microsoft Certified: Azure Administrator Associate
 
 • Microsoft Certified: Azure AI Engineer Associate
