@@ -128,6 +128,7 @@
 4. [Microsoft Azure Administrator (AZ-104)](https://drive.google.com/file/d/1Vra1j_oWchd2e236aXImxFpfGOfU1jdQ/view?usp=sharing)
 5. [Microsoft Azure DevOps Solutions (AZ-400)](https://drive.google.com/file/d/1rJTPRs5dknxvR0NEaH2DdtAygQOdz8Uv/view?usp=sharing)
 6. [Microsoft Azure AI Fundamentals (AI-900)](https://drive.google.com/file/d/1Si6MnnNgqMX3KyHELrx6MQzUwq7u_OL4/view?usp=sharing)
+7. [Microsoft Azure Security Techologies (AZ-500)](https://drive.google.com/file/d/17GKpmm4oidrE8YquNzaWHj44NXRMpzlL/view?usp=sharing)
 
 ## Kode Kloud Certifications
 1. [Kubernetes for the Absolute Beginners - Hands-on](https://drive.google.com/file/d/1Lj1VjwUyGBj2puGFj4SLfb5S8rq18xrW/view?usp=sharing)
