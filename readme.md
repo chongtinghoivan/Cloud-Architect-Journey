@@ -21,6 +21,8 @@ Certificates obtained along the journey would also be recorded.
 
 • Microsoft Certified: DevOps Engineer Expert
 
+• Microsoft Certified: Azure Security Engineer Associate
+
 • Microsoft Certified: Azure Administrator Associate
 
 • Microsoft Certified: Azure AI Engineer Associate
