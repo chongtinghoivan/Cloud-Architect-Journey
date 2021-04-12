@@ -60,6 +60,8 @@
 
 ## [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/8acbbeac-bf8f-4481-96cb-e6f2e5a966e5/public_url)
 
+## [Microsoft Certified: Azure Security Engineer Associate](https://www.credly.com/badges/00690205-fe6e-4dc8-80fa-7ed8429213ab)
+
 ## [Microsoft Certified: Azure AI Engineer Associate](https://www.youracclaim.com/badges/afec93c2-9784-4649-8415-4bb54434a719/public_url)
 
 ## [Microsoft Certified: Azure Administrator Associate](https://www.youracclaim.com/badges/ef0ef991-db37-47e4-8757-9d5902bfee8a/linked_in)
