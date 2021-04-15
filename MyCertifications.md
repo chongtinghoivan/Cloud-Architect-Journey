@@ -1,62 +1,12 @@
 # My Certifications
 
+## [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/e3d01361-c0db-4c60-ba93-df0053214b52)
+
 ## [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/fd0a1083-8178-4d53-aea9-f74bbf0556a2)
-### Abilities Validated by the Certification
-
-• Effectively demonstrate knowledge of how to architect and deploy secure and robust applications on AWS technologies
-
-• Define a solution using architectural design principles based on customer requirements
-
-• Provide implementation guidance based on best practices to the organization throughout the life cycle of the project
-
-
-## [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/50cc3d7d-e7d1-4c3a-b30d-66f29d8f5a3e)
-### Abilities Validated by the Certification
-
-• Define what the AWS Cloud is and the basic global infrastructure
-
-• Describe basic AWS Cloud architectural principles
-
-• Describe the AWS Cloud value proposition
-
-• Describe key services on the AWS platform and their common use cases (for example, compute and analytics)
-
-• Describe basic security and compliance aspects of the AWS platform and the shared security model
-
-• Define the billing, account management, and pricing models
-
-• Identify sources of documentation or technical assistance (for example, whitepapers or support tickets)
-
-• Describe basic/core characteristics of deploying and operating in the AWS Cloud
 
 ## [AWS Cloud Architect Nanodegree](https://drive.google.com/file/d/1UAT8PX77kr_WOm3IZyght2lvxkpWVhJp/view?usp=sharing)
-• Design and deploy a fault tolerant and resilient web service architecture in AWS.
-
-• Monitor availability and simulate and test failure scenarios and recovery.
-
-• Optimize cloud service infrastructure for cost and performance.
-
-• Use Terraform to provision and configure AWS services in a global configuration.
-
-• Evaluate a cloud environment’s security vulnerabilities.
-
-• Apply best practices in cloud security to harden and secure the environment.
-
-• Design a DevSecOps pipeline that will scan infrastructure as code, AMI and containers, and AWS cloud configuration for vulnerabilities.
 
 ## [AWS Technical Professional](https://drive.google.com/file/d/18d-PGqDn4XmjpgTnpWVtypfyJ1ryy2h5/view?usp=sharing)
-
-• Identify core AWS services and relate them to common architectures and use cases
-
-• Model a typical technical customer pre-engagement cycle
-
-• Recognize common discovery concerns and architectural challenges
-
-• Design a basic three-tier architectural solution using AWS services
-
-• Provide a visual representation of a Proof of Concept
-
-• Identify modern solutions and cost optimization needed for digital transformation
 
 ## [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/8acbbeac-bf8f-4481-96cb-e6f2e5a966e5/public_url)
 
@@ -65,6 +15,8 @@
 ## [Microsoft Certified: Azure AI Engineer Associate](https://www.youracclaim.com/badges/afec93c2-9784-4649-8415-4bb54434a719/public_url)
 
 ## [Microsoft Certified: Azure Administrator Associate](https://www.youracclaim.com/badges/ef0ef991-db37-47e4-8757-9d5902bfee8a/linked_in)
+
+## [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/50cc3d7d-e7d1-4c3a-b30d-66f29d8f5a3e)
 
 ## [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/2462dd38-27c0-485a-a426-9b456c974265)
 
