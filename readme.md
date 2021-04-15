@@ -15,9 +15,7 @@ Certificates obtained along the journey would also be recorded.
 
 • AWS Certified Solutions Architect Associate
 
-• AWS Certified Cloud Practitioner
-
-• AWS Cloud Architect Nanodegree @Udacity
+• Microsoft Certified: Azure Solutions Architect Expert
 
 • Microsoft Certified: DevOps Engineer Expert
 
@@ -28,6 +26,10 @@ Certificates obtained along the journey would also be recorded.
 • Microsoft Certified: Azure AI Engineer Associate
 
 • Microsoft Certified: Azure Fundamentals
+
+• AWS Certified Cloud Practitioner
+
+• AWS Cloud Architect Nanodegree @Udacity
 
 • Alibaba Cloud Certification Associate - Cloud Computing
 
