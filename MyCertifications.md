@@ -4,10 +4,6 @@
 
 ## [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/fd0a1083-8178-4d53-aea9-f74bbf0556a2)
 
-## [AWS Cloud Architect Nanodegree](https://drive.google.com/file/d/1UAT8PX77kr_WOm3IZyght2lvxkpWVhJp/view?usp=sharing)
-
-## [AWS Technical Professional](https://drive.google.com/file/d/18d-PGqDn4XmjpgTnpWVtypfyJ1ryy2h5/view?usp=sharing)
-
 ## [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/8acbbeac-bf8f-4481-96cb-e6f2e5a966e5/public_url)
 
 ## [Microsoft Certified: Azure Security Engineer Associate](https://www.credly.com/badges/00690205-fe6e-4dc8-80fa-7ed8429213ab)
@@ -16,13 +12,17 @@
 
 ## [Microsoft Certified: Azure Administrator Associate](https://www.youracclaim.com/badges/ef0ef991-db37-47e4-8757-9d5902bfee8a/linked_in)
 
+## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
+
 ## [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/50cc3d7d-e7d1-4c3a-b30d-66f29d8f5a3e)
 
 ## [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/2462dd38-27c0-485a-a426-9b456c974265)
 
 ## [Alibaba Cloud ACA Cloud Computing Certification](https://drive.google.com/file/d/19_U-jHaKmqukE9qTB9OpTaJ95plM3D1e/view?usp=sharing)
 
-## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
+## [AWS Cloud Architect Nanodegree](https://drive.google.com/file/d/1UAT8PX77kr_WOm3IZyght2lvxkpWVhJp/view?usp=sharing)
+
+## [AWS Technical Professional](https://drive.google.com/file/d/18d-PGqDn4XmjpgTnpWVtypfyJ1ryy2h5/view?usp=sharing)
 
 ## [Cloud Architecture with Google Cloud Professional Certificate @Coursera](https://coursera.org/share/31fc73f747dedd6776b003a0269e0917)
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/GYUE3KHY2P45)
