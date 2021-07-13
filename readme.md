@@ -4,10 +4,11 @@ This is a project that documents the resources that I have used to prepare mysel
 
 Certificates obtained along the journey would also be recorded.
 
-#### Employment Status: Open to work
+#### Employment Status: Currently employed as Cloud Solutions Architect at Synnex. 
+Planning to accumulate hands-on cloud architecture experience at Synnex. 
 
 #### Contact Email for Recruiters: chongtingho@gmail.com
-
+Would only consider fully-remote job opportunities at the moment. 
 
 ### Highlights of Certifications Accomplished:
 
