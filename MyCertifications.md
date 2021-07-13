@@ -18,6 +18,8 @@
 
 ## [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/2462dd38-27c0-485a-a426-9b456c974265)
 
+## [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/8af22994-22fa-4dc0-a6ed-748173b230ce)
+
 ## [Alibaba Cloud ACA Cloud Computing Certification](https://drive.google.com/file/d/19_U-jHaKmqukE9qTB9OpTaJ95plM3D1e/view?usp=sharing)
 
 ## [AWS Cloud Architect Nanodegree](https://drive.google.com/file/d/1UAT8PX77kr_WOm3IZyght2lvxkpWVhJp/view?usp=sharing)
