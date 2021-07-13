@@ -27,6 +27,8 @@ Certificates obtained along the journey would also be recorded.
 
 • Microsoft Certified: Azure Fundamentals
 
+• Microsoft Certified: Azure AI Fundamentals
+
 • AWS Certified Cloud Practitioner
 
 • AWS Cloud Architect Nanodegree @Udacity
