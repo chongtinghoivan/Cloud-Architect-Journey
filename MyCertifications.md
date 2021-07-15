@@ -56,8 +56,8 @@
 ## [Business Analyst (A2019) - Automation Anywhere](https://certificates.automationanywhere.com/f908d805-4061-49eb-92ef-6a92e230c7d7)
 
 ## Huawei Cloud Academy
-1. [HCIA-Cloud Service Training Course] (https://drive.google.com/file/d/1KZwOUTbnTR7DOSF9RR0qkv1qKCSsk0Go/view?usp=sharing)
-2. [HCIP-Cloud Service Solutions Architect Training Course] (https://drive.google.com/file/d/1ehWJXZEzqlntMWsL1f1dF5bf12PiTuvq/view?usp=sharing)
+1. [HCIA-Cloud Service Training Course](https://drive.google.com/file/d/1KZwOUTbnTR7DOSF9RR0qkv1qKCSsk0Go/view?usp=sharing)
+2. [HCIP-Cloud Service Solutions Architect Training Course](https://drive.google.com/file/d/1ehWJXZEzqlntMWsL1f1dF5bf12PiTuvq/view?usp=sharing)
 
 ## Other AWS Trainings
 1. [AWS Solutions Training for Partners: Machine Learning on AWS - Business (Digital)](https://drive.google.com/file/d/1VMIc-zJSImrinCxH02NdB3r1wzVJs1J9/view?usp=sharing)
