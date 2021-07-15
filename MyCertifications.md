@@ -1,5 +1,7 @@
 # My Certifications
 
+## [HCIP-Cloud Service Solutions Architect](https://drive.google.com/file/d/1M-AZsdrnyLs21O9AhLjOCveBVNa4xcf5/view?usp=sharing)
+
 ## [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/e3d01361-c0db-4c60-ba93-df0053214b52)
 
 ## [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/fd0a1083-8178-4d53-aea9-f74bbf0556a2)
