@@ -1,5 +1,7 @@
 # My Certifications
 
+## [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/d1652636-6529-406e-99dd-361629775900)
+
 ## [HCIP-Cloud Service Solutions Architect](https://drive.google.com/file/d/1M-AZsdrnyLs21O9AhLjOCveBVNa4xcf5/view?usp=sharing)
 
 ## [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/e3d01361-c0db-4c60-ba93-df0053214b52)
