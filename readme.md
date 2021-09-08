@@ -14,11 +14,17 @@ Would only consider fully-remote job opportunities at the moment.
 
 #### Cloud Certifications:
 
-• AWS Certified Solutions Architect Associate
-
 • Microsoft Certified: Azure Solutions Architect Expert
 
 • Microsoft Certified: DevOps Engineer Expert
+
+• HCIP-Cloud Service Solutions Architect
+
+• AWS Certified Solutions Architect Associate
+
+• CKAD: Certified Kubernetes Application Developer
+
+• CKA: Certified Kubernetes Administrator
 
 • Microsoft Certified: Azure Security Engineer Associate
 
