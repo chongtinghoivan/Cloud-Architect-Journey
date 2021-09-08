@@ -1,5 +1,7 @@
 # My Certifications
 
+## [CKA: Certified Kubernetes Administrator](https://www.credly.com/earner/earned/badge/ec24fdf0-9c6c-48b5-b7f7-9177f6fdca2a)
+
 ## [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/d1652636-6529-406e-99dd-361629775900)
 
 ## [HCIP-Cloud Service Solutions Architect](https://drive.google.com/file/d/1M-AZsdrnyLs21O9AhLjOCveBVNa4xcf5/view?usp=sharing)
