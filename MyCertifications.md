@@ -40,6 +40,12 @@
 5. [Reliable Google Cloud Infrastructure: Design and Process](https://coursera.org/share/f989a95b67df1a83155562b4a70e94b5)
 6. [Preparing for the Google Cloud Professional Cloud Architect Exam](https://coursera.org/share/155082a79ca9bc45f601fb150b16879a)
 
+## [Google Cloud Digital Leader Training Professional Certificate @Coursera](https://coursera.org/share/e538429a2f6f585cb22d3b1067953dd0)
+1. [Introduction to Digital Transformation with Google Cloud](https://coursera.org/share/e642f7f449464c9f930fa30feeb542bc)
+2. [Innovating with Data and Google Cloud](https://coursera.org/share/d54c7a3c33b32005c8441e5e16dc959f)
+3. [Infrastructure and Application Modernization with Google Cloud](https://coursera.org/share/0a99f657c86dfa323792be54d34a1df0)
+4. [Understanding Google Cloud Security and Operations](https://coursera.org/share/1f7ef874ee0255ac201439be0cd5857c)
+
 ## [Zerto Certified Associate: Foundations 8.0](https://www.youracclaim.com/badges/8d60a9fb-0fad-4980-aa67-e9e37f0503ca)
 
 ## [Google IT Support Professional Certificate @Coursera](https://www.youracclaim.com/badges/55fb5188-e3c0-40ef-9b4c-00e6a5a3062d)
