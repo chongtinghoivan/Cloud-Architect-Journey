@@ -59,3 +59,5 @@ Would only consider fully-remote job opportunities at the moment.
 • Google IT Support Professional Certificate @Coursera
 
 • Google IT Automation Professional Certificate @Coursera
+
+• Google Cloud Digital Leader Training Professional Certificate @ Coursera
