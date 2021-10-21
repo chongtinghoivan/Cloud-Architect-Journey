@@ -104,6 +104,7 @@
 
 ## Kode Kloud Certifications
 1. [Kubernetes for the Absolute Beginners - Hands-on](https://drive.google.com/file/d/1Lj1VjwUyGBj2puGFj4SLfb5S8rq18xrW/view?usp=sharing)
+2. [Terraform for Beginners](https://drive.google.com/file/d/1Q3ccITXNHQzlwE7Ss60v02jXFbKkFyXf/view?usp=sharing)
 
 ## Multi-Cloud Trainings
 1. [Certificate of Completion - Aviatrix Certified Engineer - Multi-Cloud Network Associate Course](https://drive.google.com/file/d/1-T7HUwUH-Krr_BUiK3fWOkTbK7HPHKgk/view?usp=sharing)
@@ -127,6 +128,9 @@
 
 ## DataCumulus - Stéphane Maarek
 1. [Cerificate of Completion - Ultimate AWS Certified SysOps Administrator Associate 2020](https://www.udemy.com/certificate/UC-de6419c8-f0fc-4d21-b958-26b76c3e5d4c/)
+
+## SAS Training
+1. [SAS Viya Overview](https://www.credly.com/badges/04f5f90c-fa4e-4a05-9018-6d19c36f9f2f)
 
 ## Cloud Career Planning
 1. [Cerificate of Completion - Infrastructure & Cloud Career Planning - A must have guide](https://drive.google.com/file/d/1JDfBiUnLCjy5UEnvpDmDycLK4YmDR6ZP/view?usp=sharing)
