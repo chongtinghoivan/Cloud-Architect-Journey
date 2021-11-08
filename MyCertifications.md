@@ -20,6 +20,8 @@
 
 ## [Aviatrix Certified Engineer – Multi-Cloud Network Associate](https://drive.google.com/file/d/1oJPCOoYK6TIjS85USCBsVag8PgATUNdU/view?usp=sharing)
 
+## [ZStack Cloud Computing Consultant - ZCCC](https://drive.google.com/file/d/1ltpMTzGXikccAWCDFidfji9hBoK_I6zD/view?usp=sharing)
+
 ## [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/50cc3d7d-e7d1-4c3a-b30d-66f29d8f5a3e)
 
 ## [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/2462dd38-27c0-485a-a426-9b456c974265)
