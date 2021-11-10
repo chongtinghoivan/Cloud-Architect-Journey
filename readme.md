@@ -14,6 +14,10 @@ Would only consider fully-remote job opportunities at the moment.
 
 #### Cloud Certifications:
 
+• ZStack Cloud Computing Technician - ZCCT
+
+• ZStack Cloud Computing Consultant - ZCCC
+
 • Microsoft Certified: Azure Solutions Architect Expert
 
 • Microsoft Certified: DevOps Engineer Expert
