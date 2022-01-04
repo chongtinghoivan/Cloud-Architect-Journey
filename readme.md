@@ -4,8 +4,7 @@ This is a project that documents the resources that I have used to prepare mysel
 
 Certificates obtained along the journey would also be recorded.
 
-#### Employment Status: Currently employed as Cloud Solutions Architect at Synnex. 
-Planning to accumulate hands-on cloud architecture experience at Synnex. 
+#### Employment Status: Currently employed as Solutions Architect at ZStack. 
 
 #### Contact Email for Recruiters: chongtingho@gmail.com
 Would only consider fully-remote job opportunities at the moment. 
@@ -59,6 +58,8 @@ Would only consider fully-remote job opportunities at the moment.
 • Automation Anywhere Business Analyst (A2019)
 
 #### Other IT Certifications:
+
+• Google Project Management Professional Certificate @Coursera
 
 • Google IT Support Professional Certificate @Coursera
 
