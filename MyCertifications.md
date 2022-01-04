@@ -36,6 +36,14 @@
 
 ## [AWS Technical Professional](https://drive.google.com/file/d/18d-PGqDn4XmjpgTnpWVtypfyJ1ryy2h5/view?usp=sharing)
 
+## [Google Project Management Professional Certificate](https://www.credly.com/badges/70bf2abb-f267-4a73-82de-ef9342c28a17)
+1. [Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/L4U9K84BTMKU)
+2. [Project Initiation: Starting a Successful Project])(https://www.coursera.org/account/accomplishments/verify/RTUB6QTHBH9U)
+3. [Project Planning: Putting It All Together])(https://www.coursera.org/account/accomplishments/verify/4H37AJCQ3X3X)
+4. [Project Execution: Running the Project](https://www.coursera.org/account/accomplishments/verify/BCXQNJTMVGYJ)
+5. [Agile Project Management](https://www.coursera.org/account/accomplishments/verify/9N8M2AYLXP65)
+6. [Capstone: Applying Project Management in the Real World](https://www.coursera.org/account/accomplishments/verify/262UPB62BL7C)
+
 ## [Cloud Architecture with Google Cloud Professional Certificate @Coursera](https://coursera.org/share/31fc73f747dedd6776b003a0269e0917)
 1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/GYUE3KHY2P45)
 2. [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/account/accomplishments/records/CGVBFXCQLEXQ)
