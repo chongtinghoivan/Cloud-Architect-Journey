@@ -1,5 +1,7 @@
 # My Certifications
 
+## [ZStack Cloud Computing Engineer - ZCCE](https://drive.google.com/file/d/1l9MLzX-1CSrmksuAjAEs35h2033MgrZq/view?usp=sharing)
+
 ## [ZStack Cloud Computing Technician - ZCCT](https://drive.google.com/file/d/1ALpd4eyxL06KrRHfU7XgQj-mDxPUf1h0/view?usp=sharing)
 
 ## [ZStack Cloud Computing Consultant - ZCCC](https://drive.google.com/file/d/1ltpMTzGXikccAWCDFidfji9hBoK_I6zD/view?usp=sharing)
