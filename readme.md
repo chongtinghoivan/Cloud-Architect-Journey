@@ -13,6 +13,8 @@ Would only consider fully-remote job opportunities at the moment.
 
 #### Cloud Certifications:
 
+• ZStack Cloud Computing Engineer - ZCCE
+
 • ZStack Cloud Computing Technician - ZCCT
 
 • ZStack Cloud Computing Consultant - ZCCC
