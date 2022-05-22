@@ -4,10 +4,10 @@ This is a project that documents the resources that I have used to prepare mysel
 
 Certificates obtained along the journey would also be recorded.
 
-#### Employment Status: Currently employed as Solutions Architect at ZStack. 
+#### Employment Status: Currently employed as Global Head of PMO at ZStack. 
 
 #### Contact Email for Recruiters: chongtingho@gmail.com
-Would only consider fully-remote job opportunities at the moment. 
+Would only consider fully-remote / remote job opportunities with annual salary >1.5M at the moment. 
 
 ### Highlights of Certifications Accomplished:
 
