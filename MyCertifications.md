@@ -38,6 +38,15 @@
 
 ## [AWS Technical Professional](https://drive.google.com/file/d/18d-PGqDn4XmjpgTnpWVtypfyJ1ryy2h5/view?usp=sharing)
 
+## [Google Digital Marketing & E-commerce Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BUVTMAGNR8L5)
+1. [Foundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/certificate/VJEN9CAVPT7C)
+2. [Attract and Engage Customers with Digital Marketing](https://www.coursera.org/account/accomplishments/certificate/U69ESGHT8NVE)
+3. [From Likes to Leads: Interact with Customers Online](https://www.coursera.org/account/accomplishments/certificate/24EZ2ZYMJ35A)
+4. [Think Outside the Inbox: Email Marketing](https://www.coursera.org/account/accomplishments/certificate/XWBTK9XYT4DB)
+5. [Assess for Success: Marketing Analytics and Measurement](https://www.coursera.org/account/accomplishments/certificate/LCF4TDBA4GEK)
+6. [Make the Sale: Build, Launch, and Manage E-commerce Stores](https://www.coursera.org/account/accomplishments/certificate/YJSP5B6NLPY2)
+7. [Satisfaction Guaranteed: Develop Customer Loyalty Online](https://www.coursera.org/account/accomplishments/certificate/S8KYVEG4EEXK)
+
 ## [Google Project Management Professional Certificate](https://www.credly.com/badges/70bf2abb-f267-4a73-82de-ef9342c28a17)
 1. [Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/L4U9K84BTMKU)
 2. [Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/verify/RTUB6QTHBH9U)
