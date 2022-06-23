@@ -59,7 +59,11 @@ Would only consider fully-remote / remote job opportunities with annual salary >
 
 • Automation Anywhere Business Analyst (A2019)
 
-#### Other IT Certifications:
+#### Other Certifications:
+
+• Meta Social Media Marketing Professional Certificate @Coursera
+
+• Google Digital Marketing & E-commerce Professional Certificate @Coursera
 
 • Google Project Management Professional Certificate @Coursera
 
