@@ -38,6 +38,14 @@
 
 ## [AWS Technical Professional](https://drive.google.com/file/d/18d-PGqDn4XmjpgTnpWVtypfyJ1ryy2h5/view?usp=sharing)
 
+## [Meta Social Media Marketing Professional Certificate](https://coursera.org/share/52b2b8a0184bfd8fd74ee7dd967d910d)
+1. [Introduction to Social Media Marketing](https://coursera.org/share/2089fa607ac484e1b97cddf51df8ca82)
+2. [Fundamentals of Social Media Advertising](https://coursera.org/share/211df502d8411f353f69f977588d1671)
+3. [Social Media Management](https://coursera.org/share/ae5a3695e72055d7c814edb29854132a)
+4. [Advertising with Meta](https://coursera.org/share/13f376d3105871035a25afe96a2ae93b)
+5. [Measure and Optimize Social Media Marketing Campaigns](https://coursera.org/share/fba53158cce1325ae1edfddc80b511e8)
+6. [Meta Social Media Marketing Capstone](https://coursera.org/share/f65d1120c78ccf0b68cfe270fdb5eeb4)
+
 ## [Google Digital Marketing & E-commerce Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/BUVTMAGNR8L5)
 1. [Foundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/certificate/VJEN9CAVPT7C)
 2. [Attract and Engage Customers with Digital Marketing](https://www.coursera.org/account/accomplishments/certificate/U69ESGHT8NVE)
