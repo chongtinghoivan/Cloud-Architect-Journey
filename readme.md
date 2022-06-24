@@ -61,6 +61,8 @@ Would only consider fully-remote / remote job opportunities with annual salary >
 
 #### Other Certifications:
 
+• Meta Certified Digital Marketing Associate
+
 • Meta Social Media Marketing Professional Certificate @Coursera
 
 • Google Digital Marketing & E-commerce Professional Certificate @Coursera
