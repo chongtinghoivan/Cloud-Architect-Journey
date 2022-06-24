@@ -38,6 +38,8 @@
 
 ## [AWS Technical Professional](https://drive.google.com/file/d/18d-PGqDn4XmjpgTnpWVtypfyJ1ryy2h5/view?usp=sharing)
 
+## [Meta Certified Digital Marketing Associate](https://www.credly.com/badges/c50769bd-aac4-4798-923f-9ba474a1ea5f)
+
 ## [Meta Social Media Marketing Professional Certificate](https://coursera.org/share/52b2b8a0184bfd8fd74ee7dd967d910d)
 1. [Introduction to Social Media Marketing](https://coursera.org/share/2089fa607ac484e1b97cddf51df8ca82)
 2. [Fundamentals of Social Media Advertising](https://coursera.org/share/211df502d8411f353f69f977588d1671)
