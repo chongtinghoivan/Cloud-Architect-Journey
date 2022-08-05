@@ -1,5 +1,11 @@
 # My Certifications
 
+## [Wharton's Entrepreneurship Specialization - University of Pennsylvania](https://www.coursera.org/specializations/wharton-entrepreneurship)
+1. [Entrepreneurship 1: Developing the Opportunity](https://www.coursera.org/account/accomplishments/verify/MZFJ7FT23CQX)
+2. [Entrepreneurship 2: Launching your Start-Up](https://www.coursera.org/account/accomplishments/verify/P3NN9GRYVKFT)
+3. [Entrepreneurship 3: Growth Strategies](https://www.coursera.org/account/accomplishments/verify/3JLYPDSY66FR)
+4. [Entrepreneurship 4: Financing and Profitability](https://www.coursera.org/account/accomplishments/verify/ST5PGW7B4HHT)
+
 ## [ZStack Cloud Computing Engineer - ZCCE](https://drive.google.com/file/d/1l9MLzX-1CSrmksuAjAEs35h2033MgrZq/view?usp=sharing)
 
 ## [ZStack Cloud Computing Technician - ZCCT](https://drive.google.com/file/d/1ALpd4eyxL06KrRHfU7XgQj-mDxPUf1h0/view?usp=sharing)
