@@ -21,6 +21,8 @@
 
 ## [Microsoft Certified: Azure Solutions Architect Expert](https://www.credly.com/badges/e3d01361-c0db-4c60-ba93-df0053214b52)
 
+## [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/77376c4e-8196-495c-91be-e5d2666c896e)
+
 ## [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/fd0a1083-8178-4d53-aea9-f74bbf0556a2)
 
 ## [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/8acbbeac-bf8f-4481-96cb-e6f2e5a966e5/public_url)
