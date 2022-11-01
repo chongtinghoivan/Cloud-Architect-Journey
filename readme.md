@@ -25,6 +25,8 @@ Would only consider fully-remote / remote job opportunities with annual salary >
 
 • HCIP-Cloud Service Solutions Architect
 
+• AWS Certified Solutions Architect Professional
+
 • AWS Certified Solutions Architect Associate
 
 • CKAD: Certified Kubernetes Application Developer
