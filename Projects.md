@@ -2,7 +2,7 @@
 
 ## [The 1st Hong Kong International Chromatic Harmonica Competition 2022](https://ichc.hkharmonica.org/)
 
-<img src="https://images.squarespace-cdn.com/content/v1/5f7540e3dd033a1f4a32b0a4/1603181234135-F4D73WFGRZJPFFVDBEQ6/ke17ZwdGBToddI8pDm48kLKykTB9uWAYlGLqFVAuk957gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ouw-8l5B_J38LMU7OZFvYeYrFSCft09qeuWwgL9Sz7V4hZ8ChXvo4NGBDDMRxdrrQ/Harmonica+Festival_20Oct-03.jpg?format=1500w" width="60%">
+<img src="https://images.squarespace-cdn.com/content/v1/5f7540e3dd033a1f4a32b0a4/a892d9af-c388-425f-83bf-b91c1d4f906e/Harmonica+Festival_ICHC_A4+AD_2022+%281%29-1.png">
 
 ### Background Information
 
