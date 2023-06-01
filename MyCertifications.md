@@ -1,5 +1,8 @@
 # My Certifications
 
+## [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+1. [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/YTG5TAMRPFAC)
+
 ## [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)
 1. [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/earner/earned/badge/f2e8a563-e4fe-4077-9842-d84ee4c84356)
 2. [Cybersecurity Roles, Processes & Operating System Security](https://www.credly.com/badges/e82d8fec-628a-4650-953f-5b16c048c55f)
