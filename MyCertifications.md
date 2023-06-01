@@ -2,6 +2,7 @@
 
 ## [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
 1. [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/YTG5TAMRPFAC)
+2. [Play It Safe: Manage Security Risks](https://coursera.org/share/e43bf4afac79d93008563bfb4e1d1e53)
 
 ## [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)
 1. [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/earner/earned/badge/f2e8a563-e4fe-4077-9842-d84ee4c84356)
