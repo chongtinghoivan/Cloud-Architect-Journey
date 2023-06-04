@@ -6,6 +6,7 @@
 3. [Connect and Protect: Networks and Network Security](https://coursera.org/share/500cc2223f6f0f15313f186c303671b0)
 4. [Tools of the Trade: Linux and SQL](https://coursera.org/share/7d5bc05e15654c5db39b9ef5067030a3)
 5. [Assets, Threats, and Vulnerabilities](https://coursera.org/share/88c833ae76ea3a2ba99eb580d04cbcb1)
+6. [Sound the Alarm: Detection and Response](https://coursera.org/share/63592cc3d8f29f631081d116f4b6e990)
 
 ## [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)
 1. [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/earner/earned/badge/f2e8a563-e4fe-4077-9842-d84ee4c84356)
