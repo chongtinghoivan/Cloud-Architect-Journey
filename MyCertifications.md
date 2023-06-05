@@ -8,6 +8,7 @@
 5. [Assets, Threats, and Vulnerabilities](https://coursera.org/share/88c833ae76ea3a2ba99eb580d04cbcb1)
 6. [Sound the Alarm: Detection and Response](https://coursera.org/share/63592cc3d8f29f631081d116f4b6e990)
 7. [Automate Cybersecurity Tasks with Python](https://coursera.org/share/870e21d3f1e68bc687332cba305050ce)
+8. [Put It to Work: Prepare for Cybersecurity Jobs](https://coursera.org/share/88c33dbaafd317b9404753063a9bb7d9)
 
 ## [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)
 1. [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/earner/earned/badge/f2e8a563-e4fe-4077-9842-d84ee4c84356)
