@@ -1,5 +1,8 @@
 # My Certifications
 
+## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+1. [Foundations: Data, Data, Everywhere](https://coursera.org/share/6aa72c0d7903a8b3882349ba7f0cea37)
+
 ## [Google Cybersecurity Professional Certificate](https://coursera.org/share/40a038a6794235c4338d7f3564cdc355)
 1. [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/YTG5TAMRPFAC)
 2. [Play It Safe: Manage Security Risks](https://coursera.org/share/e43bf4afac79d93008563bfb4e1d1e53)
