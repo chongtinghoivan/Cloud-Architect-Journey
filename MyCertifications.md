@@ -5,6 +5,7 @@
 2. [Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/6a64319b7dc813e8247139321e18b4d4)
 3. [Prepare Data for Exploration](https://coursera.org/share/77edaba1816c8fc815d82a4ba1b4e9bc)
 4. [Process Data from Dirty to Clean](https://coursera.org/share/eb7bdade37eabaa386783cc205f586b6)
+5. [Analyze Data to Answer Questions](https://coursera.org/share/695fee5b384bdcff6f99c6ca25c02c18)
 
 ## [Google Cybersecurity Professional Certificate](https://coursera.org/share/40a038a6794235c4338d7f3564cdc355)
 1. [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/YTG5TAMRPFAC)
