@@ -1,6 +1,6 @@
 # My Certifications
 
-## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+## [Google Data Analytics Professional Certificate](https://www.credly.com/badges/ecec6a93-b8f2-42b4-96c6-44f04233c899)
 1. [Foundations: Data, Data, Everywhere](https://coursera.org/share/6aa72c0d7903a8b3882349ba7f0cea37)
 2. [Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/6a64319b7dc813e8247139321e18b4d4)
 3. [Prepare Data for Exploration](https://coursera.org/share/77edaba1816c8fc815d82a4ba1b4e9bc)
@@ -8,6 +8,7 @@
 5. [Analyze Data to Answer Questions](https://coursera.org/share/695fee5b384bdcff6f99c6ca25c02c18)
 6. [Share Data Through the Art of Visualization](https://coursera.org/share/68b1f9c705231ea48ccbbe334f6033dd)
 7. [Data Analysis with R Programming](https://coursera.org/share/6a1376392edcf6f4641da46a33bef0b2)
+8. [Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/share/3958b234f48c773842d73515e15e8c7e)
 
 ## [Google Cybersecurity Professional Certificate](https://coursera.org/share/40a038a6794235c4338d7f3564cdc355)
 1. [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/YTG5TAMRPFAC)
