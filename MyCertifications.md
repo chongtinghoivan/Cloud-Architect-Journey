@@ -7,6 +7,7 @@
 4. [Process Data from Dirty to Clean](https://coursera.org/share/eb7bdade37eabaa386783cc205f586b6)
 5. [Analyze Data to Answer Questions](https://coursera.org/share/695fee5b384bdcff6f99c6ca25c02c18)
 6. [Share Data Through the Art of Visualization](https://coursera.org/share/68b1f9c705231ea48ccbbe334f6033dd)
+7. [Data Analysis with R Programming](https://coursera.org/share/6a1376392edcf6f4641da46a33bef0b2)
 
 ## [Google Cybersecurity Professional Certificate](https://coursera.org/share/40a038a6794235c4338d7f3564cdc355)
 1. [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/YTG5TAMRPFAC)
