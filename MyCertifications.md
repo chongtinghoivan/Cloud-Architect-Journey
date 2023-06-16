@@ -6,6 +6,7 @@
 ## [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 1. [Foundations of Data Science](https://coursera.org/share/7ce2d8ebfee739c560eff26526503fff)
 2. [Get Started with Python](https://coursera.org/share/673e65bd651663b7214293e22f8d00f4)
+3. [Go Beyond the Numbers: Translate Data into Insights](https://coursera.org/share/66e5a21f506b9722812e0532846ed12d)
 
 ## [Google Data Analytics Professional Certificate](https://www.credly.com/badges/ecec6a93-b8f2-42b4-96c6-44f04233c899)
 1. [Foundations: Data, Data, Everywhere](https://coursera.org/share/6aa72c0d7903a8b3882349ba7f0cea37)
