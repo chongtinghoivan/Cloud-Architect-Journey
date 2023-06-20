@@ -9,6 +9,7 @@
 3. [Go Beyond the Numbers: Translate Data into Insights](https://coursera.org/share/66e5a21f506b9722812e0532846ed12d)
 4. [The Power of Statistics](https://coursera.org/share/9fd3c313a341f848df7b13f4203446b4)
 5. [Regression Analysis: Simplify Complex Data Relationships](https://www.coursera.org/account/accomplishments/verify/P6AZKX549RW6)
+6. [The Nuts and Bolts of Machine Learning](https://coursera.org/share/656df7d14ed101c9844f2180481b75d9)
 
 
 ## [Google Data Analytics Professional Certificate](https://www.credly.com/badges/ecec6a93-b8f2-42b4-96c6-44f04233c899)
