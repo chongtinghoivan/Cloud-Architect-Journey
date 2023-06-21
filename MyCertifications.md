@@ -3,7 +3,7 @@
 ## [Web3 and Blockchain in Global Commerce Specialization](https://www.coursera.org/specializations/web3-blockchain-global-commerce)
 1. [Introduction to Blockchain for Global Commerce](https://coursera.org/share/bfbf3f0a4c1c36a919a7a07ec6c9f74f)
 
-## [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+## [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/78f5e0e4-013b-4537-943d-aa34056c43a6)
 1. [Foundations of Data Science](https://coursera.org/share/7ce2d8ebfee739c560eff26526503fff)
 2. [Get Started with Python](https://coursera.org/share/673e65bd651663b7214293e22f8d00f4)
 3. [Go Beyond the Numbers: Translate Data into Insights](https://coursera.org/share/66e5a21f506b9722812e0532846ed12d)
