@@ -1,7 +1,7 @@
 # My Certifications
 
 ## [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence)
-1.[Foundations of Business Intelligence](https://coursera.org/share/a8ccab1262de7bdb6455f7a99180efc4)
+1. [Foundations of Business Intelligence](https://coursera.org/share/a8ccab1262de7bdb6455f7a99180efc4)
 
 ## [Web3 and Blockchain in Global Commerce Specialization](https://www.coursera.org/specializations/web3-blockchain-global-commerce)
 1. [Introduction to Blockchain for Global Commerce](https://coursera.org/share/bfbf3f0a4c1c36a919a7a07ec6c9f74f)
