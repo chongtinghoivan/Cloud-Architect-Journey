@@ -3,8 +3,11 @@
 ## [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence)
 1. [Foundations of Business Intelligence](https://coursera.org/share/a8ccab1262de7bdb6455f7a99180efc4)
 
-## [Web3 and Blockchain in Global Commerce Specialization](https://www.coursera.org/specializations/web3-blockchain-global-commerce)
+## [Web3 and Blockchain in Global Commerce Specialization](https://coursera.org/share/08125474ae5427820f837482794f4d8f)
 1. [Introduction to Blockchain for Global Commerce](https://coursera.org/share/bfbf3f0a4c1c36a919a7a07ec6c9f74f)
+2. [Web3 and Blockchain Transformations in Global Supply Chains](https://coursera.org/share/18af32a8daf19c289d6ff30877ae483b)
+3. [Web3 and Blockchain Leadership for Transformation](https://coursera.org/share/c98b4ac265b385cb09e9968afbe83cb7)
+4. [Blockchain Opportunity Analysis for Global Commerce](https://coursera.org/share/6eddd1ef21e4d14b54b75f659e7ec767)
 
 ## [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/78f5e0e4-013b-4537-943d-aa34056c43a6)
 1. [Foundations of Data Science](https://coursera.org/share/7ce2d8ebfee739c560eff26526503fff)
