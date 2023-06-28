@@ -5,6 +5,7 @@
 ## [Google Business Intelligence Professional Certificate](https://www.coursera.org/professional-certificates/google-business-intelligence)
 1. [Foundations of Business Intelligence](https://coursera.org/share/a8ccab1262de7bdb6455f7a99180efc4)
 2. [The Path to Insights: Data Models and Pipelines](https://coursera.org/share/b378b0f70410d1625a7d4cb15571eed1)
+3. [Decisions, Decisions: Dashboards and Reports](https://coursera.org/share/5b91dc067f17cdb265b4595d0af9c08f)
 
 ## [Web3 and Blockchain in Global Commerce Specialization](https://coursera.org/share/08125474ae5427820f837482794f4d8f)
 1. [Introduction to Blockchain for Global Commerce](https://coursera.org/share/bfbf3f0a4c1c36a919a7a07ec6c9f74f)
