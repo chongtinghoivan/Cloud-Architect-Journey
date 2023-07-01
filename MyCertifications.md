@@ -1,5 +1,8 @@
 # My Certifications
 
+## [AI for Good Specialization - DeepLearning.AI](https://www.coursera.org/specializations/ai-for-good)
+1. [AI and Public Health](https://coursera.org/share/90294a4b865d2d5561576b565f572557)
+
 ## [Learn with Workday](https://www.credly.com/badges/e9bea5d9-19c7-4337-baf2-9c9d2310ec2d)
 
 ## [Google Business Intelligence Professional Certificate](https://www.credly.com/earner/earned/badge/631ba3f3-730b-48c4-ae00-30a33c958e47)
