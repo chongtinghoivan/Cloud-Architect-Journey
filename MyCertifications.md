@@ -1,5 +1,7 @@
 # My Certifications
 
+## [IP Management and Protection in the Mainland - Intellectual Property Department](https://www.linkedin.com/posts/chongtingho_ip-china-upskilling-activity-7081983138930839552-A26z?utm_source=share&utm_medium=member_desktop)
+
 ## [AI for Good Specialization - DeepLearning.AI](https://www.coursera.org/specializations/ai-for-good)
 1. [AI and Public Health](https://coursera.org/share/90294a4b865d2d5561576b565f572557)
 2. [AI and Climate Change](https://coursera.org/share/a89167e37492eb1b74af38b45f12c42e)
