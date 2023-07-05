@@ -2,7 +2,7 @@
 
 ## [IP Management and Protection in the Mainland - Intellectual Property Department](https://www.linkedin.com/posts/chongtingho_ip-china-upskilling-activity-7081983138930839552-A26z?utm_source=share&utm_medium=member_desktop)
 
-## [AI for Good Specialization - DeepLearning.AI](https://www.coursera.org/specializations/ai-for-good)
+## [AI for Good Specialization - DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/certificate/WGWLNARVMPV3)
 1. [AI and Public Health](https://coursera.org/share/90294a4b865d2d5561576b565f572557)
 2. [AI and Climate Change](https://coursera.org/share/a89167e37492eb1b74af38b45f12c42e)
 3. [AI and Disaster Management](https://coursera.org/share/e4285131aa94e27c5d26fa8c1928db87)
