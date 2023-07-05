@@ -5,6 +5,7 @@
 ## [AI for Good Specialization - DeepLearning.AI](https://www.coursera.org/specializations/ai-for-good)
 1. [AI and Public Health](https://coursera.org/share/90294a4b865d2d5561576b565f572557)
 2. [AI and Climate Change](https://coursera.org/share/a89167e37492eb1b74af38b45f12c42e)
+3. [AI and Disaster Management](https://coursera.org/share/e4285131aa94e27c5d26fa8c1928db87)
 
 ## [Learn with Workday](https://www.credly.com/badges/e9bea5d9-19c7-4337-baf2-9c9d2310ec2d)
 
