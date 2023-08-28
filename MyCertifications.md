@@ -1,5 +1,8 @@
 # My Certifications
 
+## [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
+1. [Marketing Analytics Foundation](https://coursera.org/share/a8cd6a47da065a8e667944debdf1c417)
+
 ## [IP Management and Protection in the Mainland - Intellectual Property Department](https://www.linkedin.com/posts/chongtingho_ip-china-upskilling-activity-7081983138930839552-A26z?utm_source=share&utm_medium=member_desktop)
 
 ## [AI for Good Specialization - DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/certificate/WGWLNARVMPV3)
