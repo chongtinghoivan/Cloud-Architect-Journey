@@ -2,6 +2,7 @@
 
 ## [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 1. [Marketing Analytics Foundation](https://coursera.org/share/a8cd6a47da065a8e667944debdf1c417)
+2. [Introduction to Data Analytics](https://coursera.org/share/85ab8021da739fc5982be2d9f86352fb)
 
 ## [IP Management and Protection in the Mainland - Intellectual Property Department](https://www.linkedin.com/posts/chongtingho_ip-china-upskilling-activity-7081983138930839552-A26z?utm_source=share&utm_medium=member_desktop)
 
