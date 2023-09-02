@@ -6,6 +6,7 @@
 3. [Statistics for Marketing](https://coursera.org/share/f17a9885e98bea1fe99de20ce0c366da)
 4. [Data Analytics Methods for Marketing](https://coursera.org/share/940e23e383f93bc1a63e8df076a34b81)
 5. [Marketing Analytics with Meta](https://coursera.org/share/8f9673d6eecce06df55fea16cc583b4b)
+6. [Meta Marketing Science Certification Exam](https://coursera.org/share/ba6e4f54feecda8aad176e12eb97e6c4)
 
 ## [IP Management and Protection in the Mainland - Intellectual Property Department](https://www.linkedin.com/posts/chongtingho_ip-china-upskilling-activity-7081983138930839552-A26z?utm_source=share&utm_medium=member_desktop)
 
