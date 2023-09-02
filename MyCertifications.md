@@ -1,6 +1,6 @@
 # My Certifications
 
-## [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
+## [Meta Marketing Analytics Professional Certificate](https://coursera.org/share/d51dbda1b4b1fd4a3cbbf037836dfb28)
 1. [Marketing Analytics Foundation](https://coursera.org/share/a8cd6a47da065a8e667944debdf1c417)
 2. [Introduction to Data Analytics](https://coursera.org/share/85ab8021da739fc5982be2d9f86352fb)
 3. [Statistics for Marketing](https://coursera.org/share/f17a9885e98bea1fe99de20ce0c366da)
