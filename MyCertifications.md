@@ -1,6 +1,6 @@
 # My Certifications
 
-## [SEMrush]
+## SEMrush
 1. [SEO Fundamentals Course with Greg Gifford](https://static.semrush.com/academy/certificates/f42da101ee/ivan-chong_1.pdf)
 
 ## [Meta Marketing Analytics Professional Certificate](https://coursera.org/share/d51dbda1b4b1fd4a3cbbf037836dfb28)
