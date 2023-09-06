@@ -2,6 +2,7 @@
 
 ## SEMrush
 1. [SEO Fundamentals Course with Greg Gifford](https://static.semrush.com/academy/certificates/f42da101ee/ivan-chong_1.pdf)
+2. [Semrush SEO Crash Course with Brian Dean](https://static.semrush.com/academy/certificates/a557a24533/ivan-chong_2.pdf)
 
 ## [Meta Marketing Analytics Professional Certificate](https://coursera.org/share/d51dbda1b4b1fd4a3cbbf037836dfb28)
 1. [Marketing Analytics Foundation](https://coursera.org/share/a8cd6a47da065a8e667944debdf1c417)
