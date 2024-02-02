@@ -1,5 +1,13 @@
 # My Certifications
 
+## [APIsec University](https://www.apisecuniversity.com/)
+1. [API Security Fundamentals](https://www.credly.com/badges/570fe6b0-3859-4b8b-b7c2-5e8902d15167)
+2. [OWASP API Security Top 10](https://www.credly.com/badges/9f08dc02-7dfc-4e5f-8b26-b46d52d359a0)
+3. [API Documentation Best Practices](https://www.credly.com/badges/33cc57bd-088c-462a-9748-f08e35aee3ce)
+4. [API Security for PCI Compliance](https://www.credly.com/badges/d72517d8-565f-4420-8245-d0c3049e776a)
+
+## [XM Cyber- Exposure Management Expert](https://www.credly.com/badges/a26c7808-3d0a-4e3e-a439-ccfba7f51d84)
+
 ## [IBM Applied AI Professional Certificate](https://coursera.org/share/8b14b859ed1419be496a8a554211e3c6)
 1. [Introduction to Artificial Intelligence (AI)](https://coursera.org/share/d5ac6171354c1a6f3c4b9117e5b0da5f)
 2. [Building AI Powered Chatbots Without Programming](https://coursera.org/share/862632f9f4e3cbcef9512f9ffec7705e)
