@@ -1,5 +1,15 @@
 # My Certifications
 
+## [IBM Applied AI Professional Certificate](https://coursera.org/share/8b14b859ed1419be496a8a554211e3c6)
+1. [Introduction to Artificial Intelligence (AI)](https://coursera.org/share/d5ac6171354c1a6f3c4b9117e5b0da5f)
+2. [Building AI Powered Chatbots Without Programming](https://coursera.org/share/862632f9f4e3cbcef9512f9ffec7705e)
+3. [Generative AI: Foundation Models and Platforms](https://coursera.org/share/57282420eeed0a505a9066b7680030a8)
+4. [Developing AI Applications with Python and Flask](https://coursera.org/share/7a63c3461832f8c33167d3a5ecb1a0ed)
+5. [Generative AI: Introduction and Applications](https://coursera.org/share/5fef99f03c68fb99d1146da341b30702)
+6. [Building AI Applications with Watson APIs](https://coursera.org/share/dcfed3bc076b3761806173c33927b285)
+7. [Python for Data Science, AI & Development](https://coursera.org/share/23f1e46b753e22300d8022b9b87c6b92)
+8. [Generative AI: Prompt Engineering Basics](https://coursera.org/share/064edd3c7e3ead18fe4bc84be873cf14)
+
 ## [Meta Front-end Developer Professional Certificate](https://coursera.org/share/2bc18bb93a1a618895a48f64e40a2ac4)
 1. [React Basics](https://coursera.org/share/a1aa77d98aed695a42ad8158178cd17a)
 2. [HTML and CSS in depth](https://coursera.org/share/9dcd0765cc1a98fe3509073751eceaec)
