@@ -1,5 +1,14 @@
 # My Certifications
 
+## [Meta Front-end Developer Professional Certificate](https://coursera.org/share/2bc18bb93a1a618895a48f64e40a2ac4)
+1. [React Basics](https://coursera.org/share/a1aa77d98aed695a42ad8158178cd17a)
+2. [HTML and CSS in depth](https://coursera.org/share/9dcd0765cc1a98fe3509073751eceaec)
+3. [Principles of UX/UI Design](https://coursera.org/share/036a9287aebcc0eb18725246f985d68e)
+4. [Programming with JavaScript](https://coursera.org/share/137492b02d09d1661271a30637566842)
+5. [Front-End Developer Capstone](https://coursera.org/share/6fac92885e828c18f39623f384e89ff7)
+6. [Advanced React](https://coursera.org/share/d014a3385bff49562bf44f73dfe3f99c)
+7. [Introduction to Front-End Development](https://coursera.org/share/5ab933fcd2ea9a23e8420a095b13c4a0)
+
 ## SEMrush
 1. [SEO Fundamentals Course with Greg Gifford](https://static.semrush.com/academy/certificates/f42da101ee/ivan-chong_1.pdf)
 2. [Semrush SEO Crash Course with Brian Dean](https://static.semrush.com/academy/certificates/a557a24533/ivan-chong_2.pdf)
